@@ -1,0 +1,9 @@
+package Strings;
+
+public class pratice {
+
+	public static void main(String[] args) {
+char s[]= {'s','r','i','k','a','n','t','h'};
+	}
+
+}
